@@ -99,3 +99,21 @@ img{
 img:hover{
     transform: scale(0.7);
 }
+#contact{
+    background-color: firebrick;
+}
+#contact iframe{
+    width: 100%;
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a{
+    color: white;
+    text-shadow: none;
+}
+#writings a{
+    text-shadow: none !important;
+text-decoration: underline !important;
+    color: blue !important;
+}
